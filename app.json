@@ -26,7 +26,7 @@
 		},
 		"SESSION": {
 			"description": "Generated Pyrogram Session",
-			"value": "",
+			"value": "BQA_QjA5EkiXn9OiJe8WzxSMY4myswK9QDR7Lg4glLTiZHpBAiscFW5oT6YU6Pp_xCQwXmUECwkfXjzXlnASTffepQRLrb06oHAxBSLxZnbWz59zBKsX6yGRyQ2OdIuQuMmyN_RuNBxApP7NIzh68de-1YRlCPpfbPXwYe47xz1EcpjDi2UijMQW8RdcThwEc4gpabz0sr3372q1-IpHwqDkji8nlJACm9AXe3suN1T3WEDutrHBLtEyuW9GaNbszcWaoGD8RGv_KONk4FvoTui_1sPl8BhtNPsIxZrAysiultWxu3-Dhja5-RMV2kFa3PYFDb7UMBWtGCdGwAEcspTrfsrUZQA",
 			"required": true
 		},
 		"PREFIX": {
