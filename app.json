@@ -34,15 +34,7 @@
 			"value": ".",
 			"required": true
 		},   
-		"HEROKU_API_KEY": {
-			"description": "Your heroku api key, Go To Heroku >> Profile Icon >> Account settings >> Scroll Down >> Reveal >> Copy.",
-			"value": "",
-			"required": true
-		},
-		"HEROKU_APP_NAME": {
-			"description": "Your Heroku app name, Look Top First Slot You Have Just Filled At The Top, That's The Value.",
-			"value": "",
-			"required": true
+		
 		},
 		"TIME_ZONE": {
 			"description": "For Time Plugin. Change It To Your Time Zone or If You Don't Know Leave As it is.",
@@ -51,10 +43,12 @@
 		},
 		"LOG_CHAT": {
 			"description": "A Private Telegram Group Id To Store Your Logs.",
+			"value": "-1001644460193",
 			"required": true
 		},
 		"TOKEN": {
 			"description": "Go to @botfather in telegram and make a new bot and get the bot token.",
+			"value": "5569732684:AAFmD0C1qmr3aCNkUxWvkTH3P0l4tjsuh3c",
 			"required": true
 		}
 	},
